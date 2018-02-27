@@ -1,6 +1,6 @@
 # vkClient
 ###### Description
-This is console [vk](vk.com/) client
+This is console [vk](http://vk.com/) client
 It gives you the ability to display your friends, send messages, get last message(you can setup number of messages to receive yourself)
 
 ## Built With
